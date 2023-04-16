@@ -1,3 +1,5 @@
 /node_modules
 .history
 dist
+react-demo
+demo
